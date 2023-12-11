@@ -17,4 +17,5 @@ public class loginPage {
 @FindBys({@FindBy(xpath ="//input[@placeholder='Email ID']"),
 	@FindBy(xpath = "//*[@placeholder='Email ID']")})
 public WebElement emailID;
+	//dhanush
 }
